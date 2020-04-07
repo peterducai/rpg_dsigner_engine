@@ -23,6 +23,7 @@ quests[]
 name
 description
 ActionToDo   #pick item, talk to person
+
 ```
 
 ## Person
@@ -31,11 +32,14 @@ ActionToDo   #pick item, talk to person
 name
 description
 race
+features[]
 ```
 
 ### Defense
 
 ```
+defense object can be multiplied
+etc..
 shield
 armor
 core
