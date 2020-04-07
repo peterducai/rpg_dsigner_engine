@@ -6,6 +6,18 @@
 
 ## Person
 
+```
+name
+description
+race
+```
+
+```
+shield
+armor
+core
+```
+
 ## Item
 
 ## Action
